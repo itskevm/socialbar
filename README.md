@@ -10,6 +10,9 @@
 - Use a Google Pixel 2 emulator
 - Use Android API 26-29 only
 
+APK access for personal installation:
+[Social Bar APK on Google Drive](https://drive.google.com/file/d/1-uQaBuX4wewKWDoOmLqQh4k4KQu5hQJs/view?usp=sharing)
+
 ### Build
 Project was made with Android Studio 3.4
 
