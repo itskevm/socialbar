@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/carme</item>
+        <item>@font/duru_sans</item>
+        <item>@font/lekton</item>
+        <item>@font/metrophobic</item>
+        <item>@font/monda_bold</item>
+        <item>@font/oxygen_bold</item>
+        <item>@font/pt_sans_bold</item>
+        <item>@font/ruda</item>
+        <item>@font/share_bold</item>
+        <item>@font/signika_negative_bold</item>
+        <item>@font/signika_semibold</item>
+        <item>@font/ubuntu_bold</item>
+    </array>
+</resources>

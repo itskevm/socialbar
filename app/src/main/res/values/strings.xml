@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SocialBar</string>
+    <string name="text_label_name">Name</string>
+    <string name="text_label_phone">Phone</string>
+    <string name="text_label_email">Email</string>
+    <string name="text_label_bio">Tell us about yourself</string>
+    <string name="text_title_edit">Edit Profile</string>
+    <string name="text_hint">Tap here</string>
+    <string name="text_sample_name">Micah Smith</string>
+    <string name="text_sample_firstName">Micah</string>
+    <string name="text_sample_lastName">Smith</string>
+    <string name="text_sample_phone">(208) 206-5039</string>
+    <string name="text_sample_email">micahsmith@gmail.com</string>
+    <string name="text_sample_bio">Hi my name is Micah Smith. I am from Mesa but
+    go to school in Salt Lake City.\nI make this drive all the time and have plenty</string>
+    <string name="text_prompt_name">What\'s your name?</string>
+    <string name="text_prompt_firstName">First Name</string>
+    <string name="text_prompt_lastName">Last Name</string>
+    <string name="text_prompt_phone">What\'s your phone number?</string>
+    <string name="text_prompt_label_phone">Your phone number</string>
+    <string name="text_prompt_email">What\'s your email?</string>
+    <string name="text_prompt_label_email">Your email address</string>
+    <string name="text_prompt_bio">What type of passenger are you?</string>
+    <string name="text_prompt_label_bio">Write a little bit about yourself. Do you like chatting?
+    Are you a smoker? Do you bring pets with you? Etc.</string>
+    <string name="button_update">Update</string>
+</resources>
